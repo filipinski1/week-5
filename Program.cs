@@ -31,6 +31,7 @@ namespace week_5
             mywindow.Display();
             tv mytv = new tv(400, "black");
             mytv.Display();
+
         }
     }
     public class Person
